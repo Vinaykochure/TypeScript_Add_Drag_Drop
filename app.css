@@ -7,7 +7,8 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: auto;
+  width: 80%;
 }
 
 label,
@@ -91,6 +92,7 @@ button:active {
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.26);
   padding: 1rem;
   margin: 1rem;
+  background: #ffffff;
 }
 
 .projects li h2 {
@@ -122,6 +124,6 @@ button:active {
 #user-input {
   margin: 1rem;
   padding: 1rem;
-  border: 1px solid #ff0062;
+  border: 1px solid #bfc3cf;
   background: #f7f7f7;
 }
